@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="3.0"
+    >
+
+    <TextView
+        android:id="@+id/mvc"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="MVC"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:id="@+id/mvp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="MVP"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:id="@+id/viper"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="VIPER"
+        android:textSize="25sp"
+        />
+
+</LinearLayout>

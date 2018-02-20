@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Architecture Demo</string>
+    <string name="mvc">MVC</string>
+    <string name="mvp">MVP</string>
+    <string name="viper">VIPER</string>
+    <string name="mvi">MVI</string>
+</resources>
